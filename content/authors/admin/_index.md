@@ -14,7 +14,7 @@ organizations:
   url: https://www.ucl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Materials engineering, MOFs/COFs, drug delivery and membranes.
+bio: My research interests include Materials engineering, MOFs/COFs, Drug delivery and Membranes.
 
 # Interests to show in About widget
 interests:
