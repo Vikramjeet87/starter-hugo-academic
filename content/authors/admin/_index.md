@@ -28,9 +28,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Materials chemistry
+    institution: National Center for Nanoscience and Technology, University of Chinese Academy of Sciences
+    year: 2015
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
