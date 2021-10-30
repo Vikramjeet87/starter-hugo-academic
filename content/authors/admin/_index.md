@@ -11,7 +11,7 @@ role: Research Fellow at Nanoengineered System Laboratory
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: UCL
-  url: https://www.stanford.edu/
+  url: https://www.ucl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
