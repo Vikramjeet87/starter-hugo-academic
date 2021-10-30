@@ -31,12 +31,12 @@ education:
   - course: PhD in Materials chemistry
     institution: National Center for Nanoscience and Technology, University of Chinese Academy of Sciences
     year: 2015
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MSc in Chemistry
+    institution: Kurukshetra University Kurukshetra
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Medical
+    institution: Kurukshetra University Kurukshetra
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
