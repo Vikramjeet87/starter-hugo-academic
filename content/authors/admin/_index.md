@@ -6,7 +6,7 @@ title: Vikramjeet Singh
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Fellow at Nanoengineered System Laboratory
 
 # Organizations/Affiliations to show in About widget
 organizations:
