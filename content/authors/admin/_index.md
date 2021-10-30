@@ -18,9 +18,12 @@ bio: My research interests include Materials engineering, MOFs/COFs, Drug delive
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Materials engineering
+- MOFs/COFs
+- Structure pharmaceutics
+- Membranes
+- Superhydrophobic surfaces
+- Drug delivery
 
 # Education to show in About widget
 education:
