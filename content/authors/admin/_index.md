@@ -22,7 +22,7 @@ interests:
 - MOFs/COFs
 - Structure pharmaceutics
 - Membranes
-- Superhydrophobic surfaces
+- Liquid repellent surfaces
 - Drug delivery
 
 # Education to show in About widget
