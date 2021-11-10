@@ -75,6 +75,6 @@ highlight_name: true
 
 Vikramjeet Singh is a research fellow in Nanoengineered System Laboratory at UCL Mechanical Engineering. His research in NSL focuses on the design and development of robust surfaces for phase change applications (condensation, anti-icing and anti-fouling) and metal/covalent-organic frameworks (MOFs/COFs) based membranes for desalination and water purification.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
