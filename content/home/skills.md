@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: Surfaces, nanoparticles and thin films
   icon: fa-atom
-  icon_pack: fab
+  icon_pack: fas
   name: Materials Engineering
 - description: Sustainable and scalable
   icon: chart-line
