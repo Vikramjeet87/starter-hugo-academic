@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: Surfaces, nanoparticles and thin films
   icon: r-project
   icon_pack: fab
-  name: Material Engineering
-- description: 100%
+  name: Materials Engineering
+- description: Sustainable and scalable
   icon: chart-line
   icon_pack: fas
   name: Methodology development
-- description: 10%
+- description: Bottom-up and top-down
   icon: camera-retro
   icon_pack: fas
   name: Nanofabrication
