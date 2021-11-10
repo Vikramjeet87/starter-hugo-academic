@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Surfaces, nanoparticles and thin films
-  icon: <i class="fas fa-atom"></i>
+  icon: fa-atom
   icon_pack: fab
   name: Materials Engineering
 - description: Sustainable and scalable
