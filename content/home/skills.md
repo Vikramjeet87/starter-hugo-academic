@@ -21,11 +21,11 @@ feature:
   icon_pack: fas
   name: Materials Engineering
 - description: Sustainable and scalable
-  icon: chart-line
+  icon: recycle
   icon_pack: fas
   name: Methodology development
 - description: Bottom-up and top-down
-  icon: camera-retro
+  icon: dice-six
   icon_pack: fas
   name: Nanofabrication
 
