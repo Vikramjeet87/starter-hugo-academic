@@ -19,15 +19,15 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R
+  name: Material Engineering
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Methodology development
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Nanofabrication
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
