@@ -73,7 +73,9 @@ email: ""
 highlight_name: true
 ---
 
-Vikramjeet Singh is a research fellow in Nanoengineered System Laboratory at UCL Mechanical Engineering. His research in NSL focuses on the design and development of robust surfaces for phase change applications (condensation, anti-icing and anti-fouling) and metal/covalent-organic frameworks (MOFs/COFs) based membranes for desalination and water purification.
+Vikramjeet Singh is Lecturer in Nanoengineering at the Department of Mechanical Engineering, University College London. He is member of Manufacturing Futures Lab (MFL) at UCL East. He has published around 50 original research articles in reputed international journals including Advanced Materials, Nano Letters, Chemical Communications etc. His research covers a wide range of topics from biosensing to drug-delivery and surface engineering. He is currently teaching 'Fundamentals of Nanoengineering' Module to MSc Future Manufacturing and Nanoscale Engineering students in Term-1.
+
+Vikramjeet Singh is accepting PhD applications in the area of pharmaceutical in the area of pharmaceutical formulation. Interested candidates can email their CV and a brief research statement at vikramjeet.singh@ucl.ac.uk.
 
 
 
